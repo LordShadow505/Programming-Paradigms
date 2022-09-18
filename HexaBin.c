@@ -4,7 +4,7 @@ int main()
 {
     float num;
 
-    scanf("Ingresa un numero decimal para convertir en hexadecimal binario: %f", &num);
+    printf("Ingresa un numero decimal para convertir en hexadecimal binario: ");
     scanf("%f", &num);
 
     int *hexa;
